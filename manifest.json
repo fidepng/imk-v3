@@ -1,11 +1,11 @@
 {
-  "name": "EduQuest - Aplikasi Pembelajaran",
+  "name": "EduQuest - Aplikasi Pembelajaran Interaktif dan Inklusif",
   "short_name": "EduQuest",
   "start_url": "/imk-v3/",
   "id": "/imk-v3/",
   "scope": "/imk-v3/",
   "display": "standalone",
-  "background_color": "#FFFFFF ",
+  "background_color": "#ffffff",
   "theme_color": "#FFFFFF",
   "icons": [
     {
@@ -24,5 +24,8 @@
       "type": "image/png",
       "purpose": "maskable"
     }
+  ],
+  "categories": [
+    "education"
   ]
 }
